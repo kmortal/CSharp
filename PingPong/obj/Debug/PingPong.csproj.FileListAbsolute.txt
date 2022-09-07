@@ -1,0 +1,36 @@
+C:\Users\crusz\Desktop\kelvyn\matrix\games\unity\C#\O Programador\ConsoleApp1\PingPong\obj\Debug\PingPong.csproj.AssemblyReference.cache
+C:\Users\crusz\Desktop\kelvyn\matrix\games\unity\C#\O Programador\ConsoleApp1\PingPong\obj\Debug\PingPong.csproj.SuggestedBindingRedirects.cache
+C:\Users\crusz\Desktop\kelvyn\matrix\games\unity\C#\O Programador\ConsoleApp1\PingPong\obj\Debug\PingPong.csproj.CoreCompileInputs.cache
+C:\Users\crusz\Desktop\kelvyn\matrix\games\unity\C#\O Programador\ConsoleApp1\PingPong\bin\Debug\PingPong.exe.config
+C:\Users\crusz\Desktop\kelvyn\matrix\games\unity\C#\O Programador\ConsoleApp1\PingPong\bin\Debug\PingPong.exe
+C:\Users\crusz\Desktop\kelvyn\matrix\games\unity\C#\O Programador\ConsoleApp1\PingPong\bin\Debug\PingPong.pdb
+C:\Users\crusz\Desktop\kelvyn\matrix\games\unity\C#\O Programador\ConsoleApp1\PingPong\bin\Debug\OpenTK.dll
+C:\Users\crusz\Desktop\kelvyn\matrix\games\unity\C#\O Programador\ConsoleApp1\PingPong\bin\Debug\OpenTK.pdb
+C:\Users\crusz\Desktop\kelvyn\matrix\games\unity\C#\O Programador\ConsoleApp1\PingPong\bin\Debug\OpenTK.xml
+C:\Users\crusz\Desktop\kelvyn\matrix\games\unity\C#\O Programador\ConsoleApp1\PingPong\obj\Debug\PingPong.csproj.CopyComplete
+C:\Users\crusz\Desktop\kelvyn\matrix\games\unity\C#\O Programador\ConsoleApp1\PingPong\obj\Debug\PingPong.exe
+C:\Users\crusz\Desktop\kelvyn\matrix\games\unity\C#\O Programador\ConsoleApp1\PingPong\obj\Debug\PingPong.pdb
+C:\kelvyn\matrix\games\unity\C#\O Programador\ConsoleApp1\PingPong\bin\Debug\PingPong.exe.config
+C:\kelvyn\matrix\games\unity\C#\O Programador\ConsoleApp1\PingPong\bin\Debug\PingPong.exe
+C:\kelvyn\matrix\games\unity\C#\O Programador\ConsoleApp1\PingPong\bin\Debug\PingPong.pdb
+C:\kelvyn\matrix\games\unity\C#\O Programador\ConsoleApp1\PingPong\bin\Debug\OpenTK.dll
+C:\kelvyn\matrix\games\unity\C#\O Programador\ConsoleApp1\PingPong\bin\Debug\OpenTK.pdb
+C:\kelvyn\matrix\games\unity\C#\O Programador\ConsoleApp1\PingPong\bin\Debug\OpenTK.xml
+C:\kelvyn\matrix\games\unity\C#\O Programador\ConsoleApp1\PingPong\obj\Debug\PingPong.csproj.AssemblyReference.cache
+C:\kelvyn\matrix\games\unity\C#\O Programador\ConsoleApp1\PingPong\obj\Debug\PingPong.csproj.SuggestedBindingRedirects.cache
+C:\kelvyn\matrix\games\unity\C#\O Programador\ConsoleApp1\PingPong\obj\Debug\PingPong.csproj.CoreCompileInputs.cache
+C:\kelvyn\matrix\games\unity\C#\O Programador\ConsoleApp1\PingPong\obj\Debug\PingPong.csproj.CopyComplete
+C:\kelvyn\matrix\games\unity\C#\O Programador\ConsoleApp1\PingPong\obj\Debug\PingPong.exe
+C:\kelvyn\matrix\games\unity\C#\O Programador\ConsoleApp1\PingPong\obj\Debug\PingPong.pdb
+C:\kelvyn\matrix\games\unity\C#\PingPong\bin\Debug\PingPong.exe.config
+C:\kelvyn\matrix\games\unity\C#\PingPong\bin\Debug\PingPong.exe
+C:\kelvyn\matrix\games\unity\C#\PingPong\bin\Debug\PingPong.pdb
+C:\kelvyn\matrix\games\unity\C#\PingPong\bin\Debug\OpenTK.dll
+C:\kelvyn\matrix\games\unity\C#\PingPong\bin\Debug\OpenTK.pdb
+C:\kelvyn\matrix\games\unity\C#\PingPong\bin\Debug\OpenTK.xml
+C:\kelvyn\matrix\games\unity\C#\PingPong\obj\Debug\PingPong.csproj.AssemblyReference.cache
+C:\kelvyn\matrix\games\unity\C#\PingPong\obj\Debug\PingPong.csproj.SuggestedBindingRedirects.cache
+C:\kelvyn\matrix\games\unity\C#\PingPong\obj\Debug\PingPong.csproj.CoreCompileInputs.cache
+C:\kelvyn\matrix\games\unity\C#\PingPong\obj\Debug\PingPong.csproj.CopyComplete
+C:\kelvyn\matrix\games\unity\C#\PingPong\obj\Debug\PingPong.exe
+C:\kelvyn\matrix\games\unity\C#\PingPong\obj\Debug\PingPong.pdb
